@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TGA REQUEST CENTRE",
+  "orientation": "any",
+  "scope": "./",
+  "short_name": "TGARC",
+  "start_url": "/idex",
+  "theme_color": "#0F5D4A",
+
+  "description": "TGA School Management System is a centralized web platform for The Gambia Academy that streamlines staff and student finance and laptop requests."
+}
